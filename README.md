@@ -1,4 +1,4 @@
-# Rozprochy_2024_2025
+# Systemy_Rozproszone_2024_2025
 ### Repository for Systemy Rozproszone (Distributed Systems) course at AGH University
 
 Repozytorium zawiera programy z laboratoriów wraz z załączonymi prezentacjami (pliki **.pdf**) - podkatalogi **lab*i***, `i = 1, 2,..., 7` w katalogu _laboratoria_ oraz programy i wszystkie potrzebne pliki związane z zadaniami domowymi - podkatalogi _zad..._ w katalogu _zadania_.
